@@ -2,7 +2,7 @@
 
 Simple CSV Schema is a pragmatic approach for defining [CSV](https://datatracker.ietf.org/doc/html/rfc4180) schemas. Simple CSV Schema provides a CSV schema description via JSON.
 
-Main features:
+### Main features
 
 + Easy schema definiton via JSON which can be validated against the [Simple CSV Meta Schema](https://github.com/simple-csv-schema/simple-csv-schema.spec/blob/main/src/simple-csv-schema.json).
 + Dedicated to the CSV format.
