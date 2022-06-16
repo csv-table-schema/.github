@@ -1,3 +1,3 @@
 # .github
 
-*Community health files for the @simple-csv-schema organization*
+*Community health files for the @csv-table-schema organization*
