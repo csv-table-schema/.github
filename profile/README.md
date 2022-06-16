@@ -13,4 +13,4 @@ CSV Table Schema is a pragmatic approach for defining [CSV](https://datatracker.
 
 ### Resources
 
-+ The Simple CSV Schema specification: https://csv-table-schema.github.io/
++ The CSV Table Schema specification: https://csv-table-schema.github.io/
